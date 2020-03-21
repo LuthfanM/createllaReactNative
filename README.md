@@ -10,6 +10,9 @@ Feature :
 - Ads after 20 products
 - Display end of catalogue when there is no more data that can be fetch from back end
 
+Project Screenshoot can be viewed in screenshoot folder
+
+# How To Run
 To run this project :
 
 Download platform-tools to help run the project :
