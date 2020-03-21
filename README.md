@@ -22,14 +22,21 @@ https://drive.google.com/open?id=1uf4M-bRX6CsakSaeUl14HoX2i3c4jQa2
 put folder android and ios in project directory
 
 Command to run in project directory :
+
 cd D:\createllas 
+
 npm install
+
 cd android && gradlew clean && cd .. && react-native run-android  
+
 npm start
 
 Command to run in platform tools :
+
 cd C:\platform-tools
+
 adb reverse tcp:3000 tcp:3000 (for server)
+
 adb reverse tcp:8081 tcp:8081 (for device)
 
 =====================
