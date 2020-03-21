@@ -17,6 +17,6 @@ class App extends Component {
     return  <MainScreen {...this.props} />;  
   }
 }
-// console.disableYellowBox = true;
+console.disableYellowBox = true;
 
 export default App;
